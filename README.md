@@ -1,1 +1,6 @@
-# TextSummarizer
+# Text Summarizer - Extractive Summarization
+### NLP Text Summarizer, an extractive summarization tool that allows you to automatically generate a concise summary of a longer text. Using the latest in natural language processing techniques, this tool is able to quickly and accurately analyze a text and identify the most important information, condensing it down into a summary that is easy to understand and share.
+## What is extractive summarization?
+### Extractive summarization is a method of summarizing text that involves selecting and condensing the most important information from the original text. This is done by analyzing the text and identifying key phrases and sentences that convey the most important information. Unlike abstractive summarization, which involves generating new sentences to summarize the text, extractive summarization uses only the original text to create the summary.
+## How does this tool work?
+### The NLP Text Summarizer uses a combination of advanced natural language processing techniques to analyze a text and identify the most important information. This includes analyzing the frequency of specific words, the position of sentences within the text, and the relationships between different sentences. Once the key phrases and sentences have been identified, the tool generates a summary that condenses the original text down to its most important points. Hope to have conveyed some useful information and code , keep hustling !
